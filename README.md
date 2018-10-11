@@ -572,7 +572,7 @@ Github: https://github.com/singhbir
 Name: Prashant Bajaj
 Bio: learning frontend web development
 Place: kanpur, uttarpradesh , INDIA
-Github: https://github.com/bajaj99prashant
+Github: https://github.com/bajaj99prashant.
 
 Name: B Siddhartha  
 Bio: Learning IOT  
